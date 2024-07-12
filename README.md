@@ -1,3 +1,9 @@
+### Feito seguindo as aulas do NLW Journey de React.js
+#### Neste projeto, críamos o frontend de um PLANEJADOR DE VIAGEM
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
